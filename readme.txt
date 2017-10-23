@@ -1,1 +1,1 @@
-This is a projekt för .NetCore
+This is a project för .Net Core
